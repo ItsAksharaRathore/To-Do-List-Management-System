@@ -44,7 +44,7 @@ To use the To-Do List Management System project developed by Akshara Rathore and
 1. **Clone the Repository:**
    Clone the GitHub repository to your local machine using Git. Open your terminal or command prompt and run:
    ```
-   git clone https://github.com/itsAksharaRathore/ToDoListManagementSystem.git
+   git clone https://github.com/itsVaibhavSharma/ToDoListManagementSystem.git
    ```
    This will create a local copy of the project on your machine.
 
