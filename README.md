@@ -1,0 +1,2 @@
+# To Do List Management System
+ A collaborative project by Akshara Rathore and Vaibhav Sharma, this C++ application offers robust task management capabilities. Users can register, login securely, add tasks with descriptions, mark them as completed, and export task lists. The system persists data using CSV files and includes error handling for seamless user interaction. Perfect for personal productivity or educational purposes.
